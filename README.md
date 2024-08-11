@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Jenat Cici Anil</h1>
 <h3 align="center">A passionate developer and blockchain Enthusiast.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Jenat14&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jenat14&icon=0&color=1)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jenat14&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
